@@ -31,7 +31,7 @@ Project ini terdiri dari dua tools utama berbasis Node.js yang menggunakan libra
 1. **Clone repo ini:**
 ---
    ```bash
-   git clone https://github.com/username/telegram-session-group-checker.git
+   git clone https://github.com/MbotixTech/telegram-session-group-checker.git
    cd telegram-session-group-checker
 ````
 
