@@ -110,7 +110,7 @@ node cek-group-channel-owner/cek.js
 📁 Tipe          : Megagroup
 👑 Dibuat Olehmu : ✅
 👥 Member        : 666
-📜 Pesan Awal    : Grup dibuat: Grup Edukasi (06 Juni 2020)
+📜 Pesan Awal    : Grup dibuat: MbotixTECH (06 Juni 2020)
 ───────────────────────────────
 ```
 
